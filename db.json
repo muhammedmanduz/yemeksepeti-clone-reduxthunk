@@ -446,20 +446,20 @@
   ],
   "cart": [
     {
-      "id": "5ac9d034-da9c-4b56-a913-f778fffe1b74",
+      "id": "775a4dc4-0bef-4429-b302-91707a3a605b",
       "productId": "1",
       "title": "Izgara Somon",
       "price": 45.99,
       "photo": "https://picsum.photos/200",
-      "amount": 4
+      "amount": 2
     },
     {
-      "id": "322d44e8-ccda-418d-8a78-c3e6273c5bf3",
-      "productId": "314",
-      "title": "Kuzu Tandır",
-      "price": 24.99,
-      "photo": "https://picsum.photos/215",
-      "amount": 5
+      "id": "2ae1d5ed-acc5-4aae-a22b-bc10a9e757bf",
+      "productId": "3",
+      "title": "Tavuk Kebabı",
+      "price": 17.99,
+      "photo": "https://picsum.photos/203",
+      "amount": 1
     }
   ]
 }
